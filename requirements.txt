@@ -1,4 +1,5 @@
 pycaret[full]
 numpy
-pandas
-streamlit
+pandas == 3.8
+streamlit == 1.11.0
+MLFlow
